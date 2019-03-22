@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/eggspot.github.io',
   siteMetadata: {
     title: `Gatsby Starter Blog MDX`,
     author: `Matt Hagner`,
